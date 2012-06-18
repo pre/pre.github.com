@@ -32,13 +32,13 @@ My TOP-3 of Problems are mostly related to Windows Phone as a platform. I don't 
 
 ### 1. Calendar & Contacts: Synchronization is unreliable.
 
-Synchronization of calendear and contacts with Google was easy to setup, but Lumia's synchronization features cannot be trusted at all. Sync between Google Calendear and Lumia's calendar cannot be manually forced and there is no way to be sure that your appointments have been synced with Google -- often they are not.
+Synchronization of calendar and contacts with Google was easy to setup, but Lumia's synchronization features cannot be trusted at all. Sync between Google Calendear and Lumia's calendar cannot be manually forced and there is no way to be sure that your appointments have been synced with Google -- often they are not.
 
 During the first days of usage this seemed to be just a little hiccup, but soon it became clear that Lumia is never fully synchronized with Google Calendar. Whenever I needed to view my calendar, i picked up my iPhone since I could not trust Lumia showing all my appointments.
 
-Delegated calendars are not supported neither. In addition to my personal calendar, I use my work calendar and I can also view my wife's calendar. Both are delegated to my personal Google account. Lumia supports only the one primary calendar of your Google account -- there is no way to access delegated calendars. [Delegated calendars need some setup](http://support.google.com/mobile/bin/answer.py?hl=en&answer=139206) for iPhone, but it seems that Lumia is out of luck with this one.
+Delegated calendars are not supported either. In addition to my personal calendar, I need my work calendar and it is also handy that my wife has given me read access to her calendar. Both are delegated to my personal Google account. Lumia supports only the one primary calendar of a Google account -- there is no way to access delegated calendars. [Delegated calendars need some setup](http://support.google.com/mobile/bin/answer.py?hl=en&answer=139206) for iPhone, but it seems that Lumia is out of luck with this one.
 
-Another problem are the contacts in Lumia's address book. When I create a new contact in "Google directory", the contact gets created in Lumia, but it will not be propagated immediately to Google. Also, new contacts created in Google or in iPhone with Google sync are not visible in Lumia, and there is no way to manually initiate the synchronization. This feels awkward, since the Lumia is constantly unsynchronized and I end up with contacts and calendar data which are only available locally in Lumia.
+Another problem are the contacts in Lumia's address book. When I create a new contact in "Google directory", the contact gets created in Lumia, but it will not be propagated immediately to Google. Also, new contacts created in Google are not visible in Lumia, and there is no way to manually initiate the synchronization. This feels awkward, since the Lumia is constantly unsynchronized and I ended up with contacts and calendar data which are only available locally in Lumia.
 
 
 
@@ -48,9 +48,9 @@ At the moment it seems that most mobile applications launch first with a polishe
 
 [Evernote](http://www.evernote.com) is probably the one third-party application I use the most on iPhone. However, the Windows Phone version has several issues which degrade its usability. Some of them are so clear (and annoying), that I wondered if anyone actually uses Evernote on a Windows Phone. Description of the bugs is at the end of this post.
 
-Facebook Messenger surprised me. I had not realized the volume of instant messages which are sent to me via Facebook. Whenever I grabbed my iPhone, FB Messenger told me I have new messages. I did I know about them while using Lumia because I did not regularly check my Facebook account. On iPhone, instant messages from FB Messger are delivered to you in the same way as SMS text messages, so you don't need to open the Facebook application in order to check messages.
+The need for Facebook Messenger surprised me. I had not realized the volume of instant messages which are sent to me via Facebook. Whenever I grabbed my iPhone, FB Messenger told me I have new messages. I did I know about them while using Lumia because I did not regularly check my Facebook account. On iPhone, instant messages from FB Messger are delivered to you in the same way as SMS text messages, so you don't need to open the Facebook application in order to check messages.
 
-This problem boils down to a classical dilemma: You need users to get applications, but on the other hand you need applications to get more users.
+This problem boils down to a classical dilemma: A platform needs users to get applications, but on the other hand the platform needs applications to get users.
 
 
 
