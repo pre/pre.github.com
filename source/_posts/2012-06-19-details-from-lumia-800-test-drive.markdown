@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Details from Lumia 800 Test Drive"
-date: 2012-06-19 10:34
+date: 2012-06-19 10:15
 comments: true
 categories:
 ---
