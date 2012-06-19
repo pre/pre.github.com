@@ -7,7 +7,7 @@ categories:
 ---
 
 I took a new Lumia 800 to a test for two weeks. During this period I used Lumia 800 as my primary phone. I wanted to answer the following question:
-> If I prefer an iPhone to a Lumia, what are the three most important problems for me in Lumia 800.
+> If I prefer an iPhone to a Lumia, what are the three most important problems for me in Lumia 800?
 
 {% img right http://salainen.asia/images/lumia-steve-small.jpg 260 %}
 
