@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[PTRS]]></title>
-  <link href="http://pre.github.com/atom.xml" rel="self"/>
-  <link href="http://pre.github.com/"/>
-  <updated>2012-06-19T12:02:15+03:00</updated>
-  <id>http://pre.github.com/</id>
+  <link href="http://ptrs.fi/atom.xml" rel="self"/>
+  <link href="http://ptrs.fi/"/>
+  <updated>2012-07-20T14:29:15+03:00</updated>
+  <id>http://ptrs.fi/</id>
   <author>
     <name><![CDATA[Petrus Repo]]></name>
     
@@ -14,15 +14,34 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Details from Lumia 800 Test Drive]]></title>
-    <link href="http://pre.github.com/blog/2012/06/19/details-from-lumia-800-test-drive/"/>
+    <title type="html"><![CDATA[Don't feel ashamed to apologize]]></title>
+    <link href="http://ptrs.fi/blog/2012/07/20/dont-feel-ashamed-to-apologize/"/>
+    <updated>2012-07-20T12:56:00+03:00</updated>
+    <id>http://ptrs.fi/blog/2012/07/20/dont-feel-ashamed-to-apologize</id>
+    <content type="html"><![CDATA[<p>The author of <a href="http://bootstrappingdesign.com/">Bootstrapping Design</a> self-published his book, and therefore, he kept control over how the sales and customer relations should be handled. The author, Jarrod Drysdale, wrote a <a href="http://blog.studiofellow.com/2012/05/31/30k-ebook-sales-in-2-months/">retrospective about the lessons learned</a>. One particular thought got my attention:</p>
+
+<blockquote><p>I made an honest mistake after launch. The coupon I had promised everyone on my mailing list expired before I said it would.</p>
+
+<p>I reactivated the coupon, extended the expiration by an extra week, and sent an email to the list apologizing. This apology email drove about $1,200 in sales. Other newsletters have not converted quite so well.</p></blockquote>
+
+<p>In other words: tell your customers that you screwed up and proactively offer a refund, coupon or something nice. The gesture will likely pay itself back.</p>
+
+<p>PS. The price of $39 is high for an ebook, but the goal was <a href="http://blog.asmartbear.com/higher-pricing.html">more money from fewer sales</a>. When targetted to the right audience, the price does not feel too much even though the book&#8217;s font-size is large, almost every other page has pictures and the content fits in 150 pages. The author did something right since the book collected a revenue of $30,000 in two months.</p>
+
+<p>If I would ever write a book, I would <a href="http://techcrunch.com/2012/01/28/why-every-entrepreneur-should-self-publish-a-book/">self-publish too</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Details from Lumia 800 test drive]]></title>
+    <link href="http://ptrs.fi/blog/2012/06/19/details-from-lumia-800-test-drive/"/>
     <updated>2012-06-19T10:15:00+03:00</updated>
-    <id>http://pre.github.com/blog/2012/06/19/details-from-lumia-800-test-drive</id>
+    <id>http://ptrs.fi/blog/2012/06/19/details-from-lumia-800-test-drive</id>
     <content type="html"><![CDATA[<p><img class="right" src="http://salainen.asia/images/lumia-gmail-small.jpg" width="260" height="506" title="Gmail in Lumia 800 with Internet Explorer" ></p>
 
 <p>In addition to the TOP-3 problems from my Lumia 800 Test Drvice, I collected a set of details. These issues are not actual deal killers, but since there are a lot of the small issues, the general usability is degraded.</p>
 
-<p>These details won&#8217;t make a difference without the bigger picture, so please read <a href="http://pre.github.com/blog/2012/06/18/nokia-lumia-800-test-drive/">the list of TOP-3 problems
+<p>These details won&#8217;t make a difference without the bigger picture, so please read <a href="http://ptrs.fi/blog/2012/06/18/nokia-lumia-800-test-drive/">the list of TOP-3 problems
 </a> first.</p>
 
 <!-- more -->
@@ -33,7 +52,7 @@
 <ul>
 <li>Design of the physical device feels especially comfortable in your hand.</li>
 <li>Scrolling and graphical effects are fluent, display feels bright.</li>
-<li>Setup of synchronization for contacts and (one) calendar was easy! (However, <a href="http://pre.github.com/blog/2012/06/18/nokia-lumia-800-test-drive/">it wasn&#8217;t working properly.</a>)</li>
+<li>Setup of synchronization for contacts and (one) calendar was easy! (However, <a href="http://ptrs.fi/blog/2012/06/18/nokia-lumia-800-test-drive/">it wasn&#8217;t working properly.</a>)</li>
 <li>Some web pages look weird</li>
 <li>This is my first phone since 2005 which displays text messages from SIM card. I did not remember I even had those. I was surprised to see messages from an ex-girlfriend. :)  In the old times text messages were stored in the SIM card and there was a limit of keeping max 20  messages at once.</li>
 <li>This is my first Nokia where the clock is easy to access when the keypad is locked.</li>
@@ -170,10 +189,10 @@
   </entry>
   
   <entry>
-    <title type="html"><![CDATA[Nokia Lumia 800 Test Drive]]></title>
-    <link href="http://pre.github.com/blog/2012/06/18/nokia-lumia-800-test-drive/"/>
+    <title type="html"><![CDATA[Nokia Lumia 800 test drive]]></title>
+    <link href="http://ptrs.fi/blog/2012/06/18/nokia-lumia-800-test-drive/"/>
     <updated>2012-06-18T17:10:00+03:00</updated>
-    <id>http://pre.github.com/blog/2012/06/18/nokia-lumia-800-test-drive</id>
+    <id>http://ptrs.fi/blog/2012/06/18/nokia-lumia-800-test-drive</id>
     <content type="html"><![CDATA[<p>I took a new Lumia 800 to a test for two weeks. During this period I used Lumia 800 as my primary phone. I wanted to answer the following question:</p>
 
 <blockquote><p>If I prefer an iPhone to a Lumia, what are the three most important problems for me in Lumia 800?</p></blockquote>
@@ -225,7 +244,7 @@
 
 <p>Lumia 800 is a decent smartphone, but it is two or three years behind its rivals. The physical form and design of the device feels excellent and the gadget looks beautiful. I know people who even <em>love</em> their Lumia, however, Lumia has usually been the first smartphone for them.</p>
 
-<p>I liked the overall experience, but Lumia 800 gave me the same feeling of incompleteness which I had with Android-based Samsung Spica in 2010. My goal was to find out what exactly is the problem for <strong>me</strong> to use the Lumia 800 instead of an iPhone 4. In addition to the TOP-3 problems described above, I also collected <a href="http://pre.github.com/blog/2012/06/19/details-from-lumia-800-test-drive/">details from the test drive</a>. Most of them are personal opinions which won&#8217;t make a difference for me until the TOP-3 problems listed in this post are gone.</p>
+<p>I liked the overall experience, but Lumia 800 gave me the same feeling of incompleteness which I had with Android-based Samsung Spica in 2010. My goal was to find out what exactly is the problem for <strong>me</strong> to use the Lumia 800 instead of an iPhone 4. In addition to the TOP-3 problems described above, I also collected <a href="http://ptrs.fi/blog/2012/06/19/details-from-lumia-800-test-drive/">details from the test drive</a>. Most of them are personal opinions which won&#8217;t make a difference for me until the TOP-3 problems listed in this post are gone.</p>
 
 <p>With these issues, Lumia will not help <a href="http://techcrunch.com/2012/06/15/samsung-apple-walk-away-with-90-percent-of-smartphone-profits-in-q1-2012-says-abi-research/">Nokia to grow its sales by 5000% this year</a>. Lumia is a good choice for people who don&#8217;t want much from their smartphone software or who don&#8217;t use much mobile internet. But why would one buy a Lumia 800 for the same price (~400 €) when they can spend the same amount of money for an Android device? Even the three-year-old iPhone 3GS (370 €) seems a viable choice instead of Lumia 800.</p>
 ]]></content>
