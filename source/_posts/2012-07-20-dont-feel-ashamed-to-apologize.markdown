@@ -16,7 +16,7 @@ In other words: tell your customers that you screwed up and proactively offer a 
 
 PS. The price of $39 is high for an ebook, but the goal was [more money from fewer sales](http://blog.asmartbear.com/higher-pricing.html). When targetted to the right audience, the price does not feel too much even though the book's font-size is large, almost every other page has pictures and the content fits in 150 pages. The author did something right since the book collected a revenue of $30,000 in two months.
 
-If I would ever write a book, I would [self-publish too](http://techcrunch.com/2012/01/28/why-every-entrepreneur-should-self-publish-a-book/).
+If I would ever write a book, I would [self-publish it](http://techcrunch.com/2012/01/28/why-every-entrepreneur-should-self-publish-a-book/).
 
 
 
