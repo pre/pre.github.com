@@ -4,7 +4,7 @@
   <title><![CDATA[PTRS]]></title>
   <link href="http://ptrs.fi/atom.xml" rel="self"/>
   <link href="http://ptrs.fi/"/>
-  <updated>2012-07-21T09:47:59+03:00</updated>
+  <updated>2012-08-07T22:58:13+03:00</updated>
   <id>http://ptrs.fi/</id>
   <author>
     <name><![CDATA[Petrus Repo]]></name>
@@ -12,6 +12,61 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[How-to use web fonts: vol. 1]]></title>
+    <link href="http://ptrs.fi/blog/2012/08/07/how-to-use-web-fonts-vol-1/"/>
+    <updated>2012-08-07T20:56:00+03:00</updated>
+    <id>http://ptrs.fi/blog/2012/08/07/how-to-use-web-fonts-vol-1</id>
+    <content type="html"><![CDATA[<p>HTML5 web fonts are awesome! On the web, it was previously only possible to use fonts already installed on the user-agent&#8217;s operating system. No more! Since I had not yet actually embedded any web fonts myself, I stumbled upon some problems. This post shares my advice that I got from the internets.</p>
+
+<!-- more -->
+
+
+<h1>The Big Picture</h1>
+
+<ol>
+<li>You need the actual <a href="http://www.google.com/webfonts/">font data</a>.</li>
+<li><a href="http://www.adobe.com/aboutadobe/antipiracy/ff_faq.html">You need a license</a> to use the font.</li>
+<li>The font data may be embedded inside a CSS file or linked from a font file.</li>
+<li>If you are viewing a local file, you may not link the font outside your local filesystem.</li>
+</ol>
+
+
+<h1>Details</h1>
+
+<p>You may either link the font file or embed it inside your CSS file. Requesting many external downloads will slow down the load time of your page. Therefore it is preferred trying not to add too many references to external resources and consider embedding the fonts inside a common CSS file. For example:</p>
+
+<pre><code>&lt;link href='http://ptrs.fi/style/fonts.css' rel='stylesheet' type='text/css'&gt;
+</code></pre>
+
+<p>The embedded fonts are encoded in Base64 format. I found <a href="http://base64fonts.com/">a handy service</a> which does the formatting: you only need to upload the font file. (They also get a copy of all the submitted fonts. Clever way to collect them..)</p>
+
+<p>The embedded font inside the CSS file looks like the following:</p>
+
+<pre><code>@font-face {
+  font-family: 'MinionPro';
+  src: url(data:font/OpenType;charset=utf-8;base64,[...font data...]) format('OpenType');
+  font-weight: normal;
+  font-style: normal;
+}
+</code></pre>
+
+<p>The font may also be linked as follows.</p>
+
+<pre><code>@font-face {
+  font-family: 'MinionPro';
+  src: url('/style/fonts/minion-pro.ttf');
+}
+</code></pre>
+
+<p>A good place to find free fonts is <a href="http://www.google.com/webfonts/">Google Web Fonts</a>. Most of fonts require a commercial license. However, you may have a right to use some fonts if you own an applicable software licence. <a href="http://www.adobe.com/aboutadobe/antipiracy/ff_faq.html">Unauthorized copying of fonts</a> is against most copyrights, so you should check the licenses carefully for commercial use.</p>
+
+<p>Note that if you are viewing your page directly from a local file, the browser&#8217;s same-origin policy does not allow linking files outside your local file system. That is, for example Google Web Fonts may not work without using a local webserver.</p>
+
+<p>Summary: Web will get a facelift since layouts are no longer restricted to Helvetica, Verdana, Lucida &amp; co!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Don't feel ashamed to apologize]]></title>
