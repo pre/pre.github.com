@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[PTRS]]></title>
+  <title><![CDATA[Petrus Repo]]></title>
   <link href="http://ptrs.fi/atom.xml" rel="self"/>
   <link href="http://ptrs.fi/"/>
-  <updated>2012-09-21T14:41:51+03:00</updated>
+  <updated>2012-09-21T19:30:12+03:00</updated>
   <id>http://ptrs.fi/</id>
   <author>
     <name><![CDATA[Petrus Repo]]></name>
