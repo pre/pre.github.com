@@ -4,7 +4,7 @@
   <title><![CDATA[PTRS]]></title>
   <link href="http://ptrs.fi/atom.xml" rel="self"/>
   <link href="http://ptrs.fi/"/>
-  <updated>2012-09-21T12:56:28+03:00</updated>
+  <updated>2012-09-21T12:59:22+03:00</updated>
   <id>http://ptrs.fi/</id>
   <author>
     <name><![CDATA[Petrus Repo]]></name>
@@ -19,6 +19,9 @@
     <updated>2012-09-13T12:39:00+03:00</updated>
     <id>http://ptrs.fi/blog/2012/09/13/the-iphone-5-paradox</id>
     <content type="html"><![CDATA[<p>iPhone 5 is currently the most advanced smartphone and, paradoxically, a really boring new product announcement. By comparing only the hardware specs even the new Nokia Lumia phones may compete. But the devil is in the software.</p>
+
+<!-- more -->
+
 
 <p>Last summer I test-drove Nokia Lumia 800, Samsung Galaxy Nexus and Samsung SII. In general these were all decent smartphones with Lumia having smoother usability than Android, but Android beating Lumia in applications. In the end, I wanted to change back to iPhone from all these devices, mostly because of seamless user experience and superior application ecosystem of iOS.</p>
 
