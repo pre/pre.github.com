@@ -7,7 +7,7 @@ categories:
 ---
 
 
-iPhone 5 is currently the most advanced smartphone and, paradoxically, a really boring new product announcement. By comparing only the hardware specs even the new Nokia Lumia phones may compete. But the devil is in the software.
+iPhone 5 is currently the most advanced smartphone and, paradoxically, a [really boring](http://www.wired.com/gadgetlab/2012/09/the-iphone-5-is-boring-and-amazing/) new product announcement. By comparing only the hardware specs even the new Nokia Lumia phones may compete. But the devil is in the software.
 
 <!-- more -->
 
