@@ -8,6 +8,8 @@ categories:
 
 The author of [Bootstrapping Design](http://bootstrappingdesign.com/) self-published his book, and therefore, he kept control over how the sales and customer relations should be handled. The author, Jarrod Drysdale, wrote a [retrospective about the lessons learned](http://blog.studiofellow.com/2012/05/31/30k-ebook-sales-in-2-months/). One particular thought got my attention:
 
+<!-- more -->
+
 > I made an honest mistake after launch. The coupon I had promised everyone on my mailing list expired before I said it would.
 >
 > I reactivated the coupon, extended the expiration by an extra week, and sent an email to the list apologizing. This apology email drove about $1,200 in sales. Other newsletters have not converted quite so well.
