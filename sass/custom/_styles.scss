@@ -1,2 +1,6 @@
 // This File is imported last, and will override other styles in the cascade
 // Add styles here to make changes without digging in too much
+
+body > header {
+  text-shadow: 2px 1px 5px #101010;
+}
