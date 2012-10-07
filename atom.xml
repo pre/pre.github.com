@@ -4,7 +4,7 @@
   <title><![CDATA[Petrus Repo]]></title>
   <link href="http://ptrs.fi/atom.xml" rel="self"/>
   <link href="http://ptrs.fi/"/>
-  <updated>2012-09-28T11:59:06+03:00</updated>
+  <updated>2012-10-07T13:26:31+03:00</updated>
   <id>http://ptrs.fi/</id>
   <author>
     <name><![CDATA[Petrus Repo]]></name>
@@ -12,6 +12,19 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Responding to negativity]]></title>
+    <link href="http://ptrs.fi/blog/2012/10/01/responding-to-negativity/"/>
+    <updated>2012-10-01T12:44:00+03:00</updated>
+    <id>http://ptrs.fi/blog/2012/10/01/responding-to-negativity</id>
+    <content type="html"><![CDATA[<p>Dealing against negativity in an argumentative manner will only result in more negativity. It does not even matter whether you are arguing in a positive or a negative manner.</p>
+
+<p><a href="http://blogs.hbr.org/bregman/2012/09/how-to-respond-to-negativity.html">According to Peter Bregman</a>, a much more productive response is to respond negatively <em>with</em> others and positively <em>with</em> them.</p>
+
+<p>The difference is more than semantic.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[The iPhone 5 paradox]]></title>
