@@ -4,7 +4,7 @@
   <title><![CDATA[Petrus Repo]]></title>
   <link href="http://ptrs.fi/atom.xml" rel="self"/>
   <link href="http://ptrs.fi/"/>
-  <updated>2012-10-07T13:37:50+03:00</updated>
+  <updated>2012-10-17T17:59:58+03:00</updated>
   <id>http://ptrs.fi/</id>
   <author>
     <name><![CDATA[Petrus Repo]]></name>
@@ -12,6 +12,24 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Empirical Study of Zero-Day Attacks]]></title>
+    <link href="http://ptrs.fi/blog/2012/10/17/empirical-study-of-zero-day-attacks/"/>
+    <updated>2012-10-17T17:09:00+03:00</updated>
+    <id>http://ptrs.fi/blog/2012/10/17/empirical-study-of-zero-day-attacks</id>
+    <content type="html"><![CDATA[<p>Stunning statistics:</p>
+
+<blockquote><p>[..] a typical zero-day attack lasts 312 days on average and that, after vulnerabilities are disclosed publicly, the volume of attacks exploiting them increases by up to 5 orders of magnitude.</p></blockquote>
+
+<!-- more -->
+
+
+<p>&mdash; Leyla Bilge and Tudor Dumitras: <a href="http://users.ece.cmu.edu/~tdumitra/public_documents/bilge12_zero_day.pdf">Before We Knew It: An Empirical Study of Zero-Day Attacks In The Real World</a>.</p>
+
+<p>Google spends a <a href="http://www.chromium.org/Home/chromium-security/hall-of-fame">mentionable amount of money</a> for paying white-hat hackers to find and report previously unknown security issues. However, <a href="http://www.forbes.com/sites/andygreenberg/2012/03/23/shopping-for-zero-days-an-price-list-for-hackers-secret-software-exploits/">the prices at the black market are presumably much higher</a>.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Responding to negativity]]></title>
