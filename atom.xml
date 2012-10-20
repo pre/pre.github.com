@@ -4,7 +4,7 @@
   <title><![CDATA[Petrus Repo]]></title>
   <link href="http://ptrs.fi/atom.xml" rel="self"/>
   <link href="http://ptrs.fi/"/>
-  <updated>2012-10-20T21:38:31+03:00</updated>
+  <updated>2012-10-20T22:17:05+03:00</updated>
   <id>http://ptrs.fi/</id>
   <author>
     <name><![CDATA[Petrus Repo]]></name>
@@ -48,6 +48,36 @@
 <p>&mdash; Leyla Bilge and Tudor Dumitras: <a href="http://users.ece.cmu.edu/~tdumitra/public_documents/bilge12_zero_day.pdf">Before We Knew It: An Empirical Study of Zero-Day Attacks In The Real World</a>.</p>
 
 <p>Google spends a <a href="http://www.chromium.org/Home/chromium-security/hall-of-fame">mentionable amount of money</a> for paying white-hat hackers to find and report previously unknown security issues. However, <a href="http://www.forbes.com/sites/andygreenberg/2012/03/23/shopping-for-zero-days-an-price-list-for-hackers-secret-software-exploits/">the prices at the black market are presumably much higher</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The two ways to scale a business]]></title>
+    <link href="http://ptrs.fi/blog/2012/10/16/the-two-ways-to-scale-a-business/"/>
+    <updated>2012-10-16T17:54:00+03:00</updated>
+    <id>http://ptrs.fi/blog/2012/10/16/the-two-ways-to-scale-a-business</id>
+    <content type="html"><![CDATA[<p>From <a href="http://www.businessinsider.com/two-ways-to-build-a-100-million-business-2012-9">Business Insider</a>:
+&#8220;Generally speaking, there are two ways (and only two ways) to scale a
+business to hit that $100 million threshold:&#8221;</p>
+
+<!-- more -->
+
+
+<blockquote><ul>
+<li><p>Your business has a high Life Time Value (LTV) per user, giving you
+the freedom to spend a significant amount of money in customer
+acquisition. High LTV can usually be found in transactional or
+subscription businesses.</p></li>
+<li><p>Your business has a high viral co-efficient (or perhaps even a
+network effect) that lets you amass users cheaply without worrying too
+much about the monetization per user or spending money on paid
+acquisition.</p></li>
+</ul>
+</blockquote>
+
+<p>High life time value can be found especially in subscriptions to services that solve a persistent problem. For example billing &amp; <a href="http://www.getharvest.com/">Harvest</a>, source code &amp; <a href="http://github.com">Github</a>, hosting &amp; <a href="http://www.heroku.com/">Heroku</a>.</p>
+
+<p>On virality, I think Dropbox&#8217;s recent <a href="https://www.dropbox.com/spacerace">Space Race</a> campaign is ingenious. The original viral aspect of &#8220;invite a new user, get free space&#8221; became drained when basically everybody already had Dropbox. Although Space Race is not as efficient as the invite campaign was at start, it will still be harvesting lots of new users.</p>
 ]]></content>
   </entry>
   
