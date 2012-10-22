@@ -4,7 +4,7 @@
   <title><![CDATA[Petrus Repo]]></title>
   <link href="http://ptrs.fi/atom.xml" rel="self"/>
   <link href="http://ptrs.fi/"/>
-  <updated>2012-10-22T12:07:30+03:00</updated>
+  <updated>2012-10-22T12:14:01+03:00</updated>
   <id>http://ptrs.fi/</id>
   <author>
     <name><![CDATA[Petrus Repo]]></name>
@@ -33,12 +33,17 @@
     <link href="http://ptrs.fi/blog/2012/10/18/internet-had-a-great-day/"/>
     <updated>2012-10-18T21:26:00+03:00</updated>
     <id>http://ptrs.fi/blog/2012/10/18/internet-had-a-great-day</id>
-    <content type="html"><![CDATA[<blockquote><p>Internet on paras paikka, internet se on iloinen. Intternetskus vietät vaikka, koko päivän kesäisen. (sävel: <a href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=ttUnP84N1Tw#t=35s">Puuhamaa</a>)</p></blockquote>
+    <content type="html"><![CDATA[<blockquote><p>Internet on paras paikka, <br>
+internet, se on iloinen. <br>
+Intternetskus vietät vaikka, <br>
+koko päivän kesäisen. <br>
+(sävel: <a href="http://www.youtube.com/watch?feature=player_detailpage&amp;v=ttUnP84N1Tw#t=35s">Puuhamaa</a>)</p></blockquote>
 
 <p>In English:</p>
 
 <ul>
-<li><a href="http://www.netflix.fi/spotify">Netflix became finally available in Finland</a>. Free usage until the end of the year for Spotify customers.</li>
+<li><a href="http://www.netflix.fi/spotify">Netflix became finally available in Finland</a>.
+ <br>Free until the end of the year for Spotify customers.</li>
 <li>Beautiful and sexy images from <a href="http://goo.gl/O0lg8">Google data centers</a>.</li>
 <li>Meteor.js announced <a href="http://meteor.com/blog/2012/10/18/meteor-050-authentication-user-accounts-new-screencast">a delicious new version</a>.</li>
 </ul>
