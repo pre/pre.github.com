@@ -4,7 +4,7 @@
   <title><![CDATA[Petrus Repo]]></title>
   <link href="http://ptrs.fi/atom.xml" rel="self"/>
   <link href="http://ptrs.fi/"/>
-  <updated>2012-10-20T22:17:05+03:00</updated>
+  <updated>2012-10-22T12:07:30+03:00</updated>
   <id>http://ptrs.fi/</id>
   <author>
     <name><![CDATA[Petrus Repo]]></name>
@@ -12,6 +12,21 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Misleading mobile battery life]]></title>
+    <link href="http://ptrs.fi/blog/2012/10/22/misleading-mobile-battery-life/"/>
+    <updated>2012-10-22T11:32:00+03:00</updated>
+    <id>http://ptrs.fi/blog/2012/10/22/misleading-mobile-battery-life</id>
+    <content type="html"><![CDATA[<p>Nowadays it seems irrelevant to ask: &#8220;How long does the battery last in my smartphone?&#8221;</p>
+
+<p>iPhone 5 draws much more power than iPhone 4/4S, but <a href="http://www.anandtech.com/show/6330/the-iphone-5-review/12">it completes the same benchmark set much faster</a>. Thus, in a long-term benchmark iPhone 5 has a better battery life than its predecessors, because iPhone 5 is able to go to sleep quicker and therefore reduce its power consumption.</p>
+
+<p>However, since people use their device more if they don&#8217;t need to wait, ie. software is more responsive, the &#8220;battery life&#8221; feels weaker. On the other hand, they were able to achieve more in the same time of usage.</p>
+
+<p>In general, comparing devices only by hardware specs is so last season. The answer to the smartphone&#8217;s battery life question is &#8220;one day&#8221; regardless of the hardware, manufacturer or device model.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Internet had a great day]]></title>
