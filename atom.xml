@@ -4,7 +4,7 @@
   <title><![CDATA[Petrus Repo]]></title>
   <link href="http://ptrs.fi/atom.xml" rel="self"/>
   <link href="http://ptrs.fi/"/>
-  <updated>2012-10-22T12:14:01+03:00</updated>
+  <updated>2012-10-23T15:06:08+03:00</updated>
   <id>http://ptrs.fi/</id>
   <author>
     <name><![CDATA[Petrus Repo]]></name>
@@ -14,11 +14,27 @@
 
   
   <entry>
+    <title type="html"><![CDATA[Damaging big enterprise attitude]]></title>
+    <link href="http://ptrs.fi/blog/2012/10/23/damaging-enterprise-attitude/"/>
+    <updated>2012-10-23T14:46:00+03:00</updated>
+    <id>http://ptrs.fi/blog/2012/10/23/damaging-enterprise-attitude</id>
+    <content type="html"><![CDATA[<p>A vulnerability in Java SE allows a complete Java security sandbox bypass. Nevertheless, Oracle decided to stick to its semi-quarter patch release cycle and promised a security fix in February 2013. That is almost five months from now.</p>
+
+<p><a href="http://seclists.org/fulldisclosure/2012/Oct/155">Adam Gowdiak et al. challenge Oracle</a>: they claim that this particular security fix does not require any integration tests with other Oracle application software, needed only 25 characters to be changed and was implemented within 30 minutes.</p>
+
+<p>Culture of big enterprises is damaging at worst. It is not acceptable to delay a critical security fix for almost five months because of an internal company process of &#8220;semi-quarter patch release schedule&#8221;.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Misleading mobile battery life]]></title>
     <link href="http://ptrs.fi/blog/2012/10/22/misleading-mobile-battery-life/"/>
     <updated>2012-10-22T11:32:00+03:00</updated>
     <id>http://ptrs.fi/blog/2012/10/22/misleading-mobile-battery-life</id>
     <content type="html"><![CDATA[<p>Nowadays it seems irrelevant to ask: &#8220;How long does the battery last in my smartphone?&#8221;</p>
+
+<!-- more-->
+
 
 <p>iPhone 5 draws much more power than iPhone 4/4S, but <a href="http://www.anandtech.com/show/6330/the-iphone-5-review/12">it completes the same benchmark set much faster</a>. Thus, in a long-term benchmark iPhone 5 has a better battery life than its predecessors, because iPhone 5 is able to go to sleep quicker and therefore reduce its power consumption.</p>
 
