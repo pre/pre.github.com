@@ -6,18 +6,18 @@ layout: default
 
 <hr>
 
-{% if page.next %}
-  Next: 
-  <a href="{{ page.next.url }}">
-    {{ page.next.title }}
-  </a>
-{% endif %}
-
-<br>
-
-{% if page.previous %}
-  Previous: 
-  <a href="{{ page.previous.url }}">
-    {{ page.previous.title }}
-  </a>
-{% endif %}
+<section class="page-navigation">
+  {% if page.previous %} 
+    &laquo; 
+    <a href="{{ page.previous.url }}">
+      {{ page.previous.title }}
+    </a>
+  {% endif %}
+  
+  {% if page.next %}
+    <a href="{{ page.next.url }}">
+      {{ page.next.title }}
+    </a>
+    &raquo;
+  {% endif %}
+</section>
