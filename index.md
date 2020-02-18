@@ -7,5 +7,5 @@ Hello World
 ## Posts
 
 {% for post in site.posts %}
-* [{{ post.url }}]({{ post.title }})
+* [{{ post.title }}]({{ post.url }})
 {% endfor %}
