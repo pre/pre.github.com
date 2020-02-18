@@ -9,13 +9,13 @@ layout: default
 <section class="page-navigation">
   {% if page.previous %} 
     &laquo; 
-    <a href="{{ page.previous.url }}">
+    <a class="previous" href="{{ page.previous.url }}">
       {{ page.previous.title }}
     </a>
   {% endif %}
   
   {% if page.next %}
-    <a href="{{ page.next.url }}">
+    <a class="next" href="{{ page.next.url }}">
       {{ page.next.title }}
     </a>
     &raquo;
