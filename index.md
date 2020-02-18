@@ -2,7 +2,7 @@
 
 Hello World
 
-{% include _includes/hello.md %}
+{% include hello.md %}
 
 ## Posts
 
