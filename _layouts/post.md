@@ -6,4 +6,6 @@ layout: default
 
 <hr>
 
-{{ page.next }} - {{ page.previous }}
+Next: [{{ page.next.title }}]({{ page.next.url }})
+<br>
+Previous: [{{ page.previous.title }}]({{ page.previous.url }})
