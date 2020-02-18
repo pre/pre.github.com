@@ -6,6 +6,18 @@ layout: default
 
 <hr>
 
-Next: [{{ page.next.title }}]({{ page.next.url }})
+{% if page.next %}
+  Next: 
+  <a href="{{ page.next.url }}">
+    {{ page.next.title }}
+  </a>
+{% endif %}
+
 <br>
-Previous: [{{ page.previous.title }}]({{ page.previous.url }})
+
+{% if page.previous %}
+  Previous: 
+  <a href="{{ page.previous.url }}">
+    {{ page.previous.title }}
+  </a>
+{% endif %}
