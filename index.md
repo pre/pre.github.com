@@ -2,6 +2,5 @@
 
 Hello World
 
-1
-{% include _includes/hello.md %}
+{ include _includes/hello.md }
 
