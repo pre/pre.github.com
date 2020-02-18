@@ -2,6 +2,7 @@
 title: Meta Title
 food: Pizza
 tags: hello
+layout: post
 ---
 
 # Hello World
