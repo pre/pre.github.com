@@ -7,17 +7,21 @@ layout: default
 <hr>
 
 <section class="page-navigation">
-  {% if page.previous %} 
-    &laquo; 
-    <a class="previous" href="{{ page.previous.url }}">
-      {{ page.previous.title }}
-    </a>
+  {% if page.previous %}
+    <div class="previous-page">
+      &laquo; 
+      <a href="{{ page.previous.url }}">
+        {{ page.previous.title }}
+      </a>
+    </div>
   {% endif %}
   
   {% if page.next %}
-    <a class="next" href="{{ page.next.url }}">
-      {{ page.next.title }}
-    </a>
-    &raquo;
+    <div class="next-page">
+      <a href="{{ page.next.url }}">
+        {{ page.next.title }}
+      </a>
+      &raquo;
+    </div>
   {% endif %}
 </section>
