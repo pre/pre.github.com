@@ -7,5 +7,5 @@ Hello World
 ## Posts
 
 {% for post in site.posts %}
-* [{{ post.title }}]({{ post.url }}) test: {{ post.food }}
+* [{{ post.title }}]({{ post.url }}) test: {{ post.food }}, excerpt: {{ post.excerpt }}
 {% endfor %}
