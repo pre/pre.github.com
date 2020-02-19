@@ -8,3 +8,7 @@ layout: post
 # Hello World
 
 It works: {{ page.food }}
+
+Second chapter.
+
+Third Chapter.
