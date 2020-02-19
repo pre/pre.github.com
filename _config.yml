@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Testing OK
 description: Hello World
+excerpt_separator: <!--more-->
